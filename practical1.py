@@ -18,5 +18,5 @@ elif colour== 'yellow':
     print("Get ready")
 
 else:
-    print("Invalid Colour")
+    print("Invalid")
 
